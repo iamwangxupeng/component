@@ -20,7 +20,10 @@
     "url-loader":"*",
     "file-loader":"*",
     "file":"*",
-    "swiper":"*"
+    "swiper":"*",
+    "bootstrap-webpack":"^0.0.5",
+    "less":"^2.7.1",
+    "less-loader":"2.2.3"
   },
   "scripts": {
     "start":  "node app.js",
